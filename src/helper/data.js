@@ -39,6 +39,14 @@ const reviews = [
       "https://media-exp1.licdn.com/dms/image/C4E03AQG1ZBXP-UN7_Q/profile-displayphoto-shrink_800_800/0/1643144854130?e=1671062400&v=beta&t=GCY7Dxy6oLPxm_1G3l4ehr8ubSqhIaOU-wfHK8VqisQ",
     text: "I am Hakan Yusuf, who learned software development at the age of 21 and will continue to learn throughout his life, and who works nonstop, determinedly and confidently to realize his dreams. I am a software developer candidate who currently knows PYTHON, HTML, CSS, JavaScript ,React.jsand will work nonstop on behalf of his dreams and plans, who see himself in the beautiful parts of the software world.",
   },
+  {
+    id: 6,
+    name: "TARIK ÖZTÜRK",
+    job: "STAJER",
+    image:
+      "https://media-exp1.licdn.com/dms/image/D4E03AQGbcaMacsJ17g/profile-displayphoto-shrink_800_800/0/1664367887797?e=1671062400&v=beta&t=Qkq456WLN3G1iM2CQvO7RJMub3k4ZKZw_pcpKHs_PUM",
+    text: "Hİ I am Tarik.16yaşımdan beridir profesyonel heckirim:typingcat: .En sevdiğim aktivite uyumaktır (günde12 saat min:sleepy:). İtina ile proje yapılır arka plan rengine Aqua verilir. iletişim için wp slack discort (aramayın direkt engel! [uykudan vakit bulabilirsem cevap verebilirim:sleeping:]) iyi kodlamalar dilerim:tiger2:.",
+  },
 ];
 
 export default reviews;
