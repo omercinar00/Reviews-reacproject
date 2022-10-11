@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card{
+  width: 30rem;
+  height: 34rem;
+  background-color: rgb(251, 240, 253);
+  text-align: center;
+  margin: 1rem auto;
+  padding: 2rem;
+  border-radius: 20px;
+  box-shadow: 3px 3px 10px rgb(29, 2, 126);
+}
+.card img{
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 5px -5px 1px 3px rgb(119, 89, 228);
+}
+p{
+  height: 6.5rem;
+}
+
+h3{
+  color: rgb(119, 89, 228);
+}
+span{
+  cursor: pointer;
+  
+}
+
+.left:hover{
+   box-shadow: 3px 3px 5px rgb(119, 89, 228);
+   font-size: large;
+}
+.right:hover{
+   box-shadow: 3px 3px 5px rgb(119, 89, 228);
+   font-size: large;
+} 
+button{
+    padding: 1rem;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(176, 165, 247);
+    cursor: pointer;
+    margin: 0 1rem;
+    margin-top: 4.5rem;
+}
+
+button:hover{
+    box-shadow: 1px 1px 5px  rgb(20, 0, 20);
+}
